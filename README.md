@@ -1,8 +1,6 @@
 # Rule-Based-NLU-for-Voice-Command-Detection
 This is a rule based NLU approach for Voice Command detection for Voice Assistants.
 
-This is a rule based approach for Natural Language Understanding (NLU) for Voice Commands detection for Voice Assistants.
-
 This is an approach for the solution of problem statement given by Samsung R&D Institute Bangalore during Hackfest 2018 at IIT(ISM) Dhanbad.
 
 In this problem, various concept and grammar files were given and rules for each commands were given and we had to come up with an approach to detect the commands from the input sentence given by the user.For more detailed explanation of problem statement, refer to Samsung Problem statement1.doc and Samsung Problem statement1.doc files.
